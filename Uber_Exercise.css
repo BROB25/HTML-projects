@@ -1,0 +1,45 @@
+body {
+  font-family: Arial;
+}
+
+p {
+  width: 400px;
+  font-weight: 500;
+  font-size: 34px;
+  margin-bottom: 15px;
+}
+input {
+  font-size: 16px;
+  display: block;
+  border: none;
+  background-color: lightgray;
+  width: 400px;
+  padding: 12px 15px;
+  color: red;
+  margin-bottom: 8px;
+}
+
+.request {
+  font-size: 16px;
+  background-color: black;
+  color: rgb(238, 236, 236);
+  border: none;
+  padding: 10px 14px;
+  margin-top: 20px;
+  margin-right: 16px;
+}
+
+.schedule {
+  font-size: 16px;
+  background-color: lightgray;
+  border: none;
+  padding: 10px 14px;
+  margin-top: 20px;
+  margin-right: 16px;
+}
+
+.logo {
+  width: 125px;
+  object-fit: cover;
+  object-position: center;
+}
