@@ -1,0 +1,42 @@
+body {
+  font-family: Arial;
+}
+
+div {
+  width: 450px;
+  border-radius: 6px;
+  padding: 12px 12px;
+  display: inline-block;
+  vertical-align: middle;
+  box-shadow: 0 0 16px rgba(0,0,0,0.4);
+}
+
+.profile-pic {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  object-position: center;
+  border: 1px solid lightslategray;
+  border-radius: 25px;
+  vertical-align: middle;
+}
+
+input {
+  margin-left: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 300px;
+  font-size: 18px;
+  border: none;
+}
+
+.tweet {
+  border: none;
+  color: white;
+  background-color: rgb(29,155,240);
+  padding: 8px 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: 500;
+  vertical-align: middle;
+}
